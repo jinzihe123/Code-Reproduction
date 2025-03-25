@@ -3,6 +3,14 @@ Replicating AI model algorithms and code that have received widespread attention
 ## Update Log
 |Name|File|Star|Last Time|
 |-|-|-|-|
-|ResNet||⭐|2025.03.25|
+|ResNet|/|⭐|2025.03.25|
+|DenseNet|/|⭐|/|
+|Transformer|/|⭐⭐⭐|/|
+|Vision Transformer(VIT)|/|⭐⭐⭐|/|
+|CLIP|/|⭐⭐⭐⭐|/|
+|Bert|/|⭐⭐⭐⭐|/|
+|Simple CNN|/|⭐|/|
+|AlexNet|/|⭐|/|
+|GoogleNet|/|⭐|/|
 
 ### Creator：Zihe Jin [Page]()
